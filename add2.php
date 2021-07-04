@@ -66,7 +66,7 @@ if($data)
 {
 echo "<script>alert('Added Successfully!')</script>";
 ?>
-<meta http-equiv="refresh" content="0; url=https://atnshoptest1.herokuapp.com/login2.php" />
+<meta http-equiv="refresh" content="0; url=https://atnshoptoys.herokuapp.com/login2.php" />
 <?php
 }
 else

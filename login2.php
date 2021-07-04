@@ -66,7 +66,7 @@ Edit/Update</td>
 }
 
 ?>
- <form action="https://atnshoptest1.herokuapp.com/add2.php">
+ <form action="https://atnshoptoys.herokuapp.com/add2.php">
  <input type="submit" value="Add" />
 </form>
 </body>
