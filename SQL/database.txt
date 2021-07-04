@@ -1,0 +1,26 @@
+CREATE TABLE atnshop2
+(
+ProductID int,
+ProductName varchar(300),
+ProductPrice varchar,
+QuantityOnHand int
+)
+DROP TABLE atnshop2;
+INSERT INTO atnshop2 (ProductID, ProductName, ProductPrice, QuantityOnHand)
+VALUES ('1','Car','100000','50');
+
+SELECT * FROM atnshop2;
+
+
+CREATE TABLE atnshop1
+(
+ProductID int,
+ProductName varchar(300),
+ProductPrice varchar,
+QuantityOnHand int
+)
+DROP TABLE atnshop1;
+INSERT INTO atnshop1 (ProductID, ProductName, ProductPrice, QuantityOnHand)
+VALUES ('1','Car','100000','50');
+
+SELECT * FROM atnshop1;
